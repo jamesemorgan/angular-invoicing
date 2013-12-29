@@ -25,3 +25,7 @@ Feel free to open any issues/pull requests if you have any feature requests.
 ## License
 
 No license restrictions, use it however and wherever you want - Commercial, Personal, Non-profit however you please. Just send us a quick note letting us know this project came handy and we'll be flattered. :)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jamesmorgan/angular-invoicing/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
